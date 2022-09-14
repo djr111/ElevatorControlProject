@@ -1,0 +1,9 @@
+C:\Users\Buls\source\repos\ElevatorControlProject\ElevatorControlProject\bin\Debug\ElevatorControlProject.exe.config
+C:\Users\Buls\source\repos\ElevatorControlProject\ElevatorControlProject\bin\Debug\ElevatorControlProject.exe
+C:\Users\Buls\source\repos\ElevatorControlProject\ElevatorControlProject\bin\Debug\ElevatorControlProject.pdb
+C:\Users\Buls\source\repos\ElevatorControlProject\ElevatorControlProject\obj\Debug\ElevatorControlProject.Properties.Resources.resources
+C:\Users\Buls\source\repos\ElevatorControlProject\ElevatorControlProject\obj\Debug\ElevatorControlProject.csproj.GenerateResource.cache
+C:\Users\Buls\source\repos\ElevatorControlProject\ElevatorControlProject\obj\Debug\ElevatorControlProject.csproj.CoreCompileInputs.cache
+C:\Users\Buls\source\repos\ElevatorControlProject\ElevatorControlProject\obj\Debug\ElevatorControlProject.exe
+C:\Users\Buls\source\repos\ElevatorControlProject\ElevatorControlProject\obj\Debug\ElevatorControlProject.pdb
+C:\Users\Buls\source\repos\ElevatorControlProject\ElevatorControlProject\obj\Debug\ElevatorControlProject.Form1.resources
