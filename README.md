@@ -6,6 +6,13 @@
 
 <br />Program can be created from files in this repository by using .NET publisher or in example of Visual studio using BUILD -> PUBLISH(Project name)
 
+<br />GUI have control panel in the middle where all the actions can be executed by clicking on buttons
+<br />Either way lift can be called on respective floor from options on the left
+<br />For this program OleDB database is used for all the actions tracking, taking time/date data from the local machine
+<br />Additionally there is ALARM button to trigger function when lift is being broken - in this case all the doors open and ALARM status
+<br />being issued on displays and database - since it is failure situation further actions would consider engineer to appear, fix the lift
+<br />and reset system
+
 <br />![image](https://user-images.githubusercontent.com/58305266/192172504-a9da6a3a-ab40-486c-b65b-ebb2bee2e034.png)
 
 
